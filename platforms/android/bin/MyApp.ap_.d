@@ -19,9 +19,11 @@
 /home/deepak/www/MyApp/platforms/android/assets/app/main-page.js \
 /home/deepak/www/MyApp/platforms/android/assets/app/app.js \
 /home/deepak/www/MyApp/platforms/android/assets/app/package.json \
+/home/deepak/www/MyApp/platforms/android/assets/app/tasks.js \
 /home/deepak/www/MyApp/platforms/android/assets/app/LICENSE \
 /home/deepak/www/MyApp/platforms/android/assets/app/app.css \
 /home/deepak/www/MyApp/platforms/android/assets/app/main-page.xml \
+/home/deepak/www/MyApp/platforms/android/assets/app/tasks.xml \
 /home/deepak/www/MyApp/platforms/android/assets/app/tns_modules/fetch \
 /home/deepak/www/MyApp/platforms/android/assets/app/tns_modules/ui \
 /home/deepak/www/MyApp/platforms/android/assets/app/tns_modules/file-system \
